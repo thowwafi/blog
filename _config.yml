@@ -44,7 +44,7 @@ defaults:
       layout: "post"
   - 
     scope:
-      path: "/assets/img"
+      path: "/blog/assets/img"
     values:
       image: true
 
